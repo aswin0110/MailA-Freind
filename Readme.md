@@ -1,3 +1,5 @@
+nodemodule files cat uploade please run: npm i crud express nodemailer nodemon
+
 ## Using ethereal.email , when the page run localhost:3000/ , then email will sent
 
 To use your self:
